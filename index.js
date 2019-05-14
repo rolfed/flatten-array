@@ -1,4 +1,4 @@
-const app = (function() {
+(function() {
 
   const myArray =  [[1,2,[3]],4];
 
